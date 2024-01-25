@@ -1,0 +1,13 @@
+.\LIST.txt
+..
+\\speedap1\Project
+.\Backup
+---註解---
+設定自動上版之資訊
+若要改變，以下設定請配合上版bat程式異動
+設定順序如下
+1.變數LIST => 讀取上版程式的LIST的名稱
+2.變數FROM_FOLDER => 上版來源資料夾
+3.變數GOAL_FOLDER => 上版目標資料夾
+4.變數BACKUP_FOLDER => 上版前備份資料夾
+
